@@ -1,0 +1,12 @@
+C:\Users\ranajoy121\Source\Repos\TheCoreBlog\TCB\TCB.API\obj\Debug\netcoreapp2.0\TCB.API.csprojResolveAssemblyReference.cache
+C:\Users\ranajoy121\Source\Repos\TheCoreBlog\TCB\TCB.API\obj\Debug\netcoreapp2.0\TCB.API.csproj.CoreCompileInputs.cache
+C:\Users\ranajoy121\Source\Repos\TheCoreBlog\TCB\TCB.API\obj\Debug\netcoreapp2.0\TCB.API.AssemblyInfoInputs.cache
+C:\Users\ranajoy121\Source\Repos\TheCoreBlog\TCB\TCB.API\obj\Debug\netcoreapp2.0\TCB.API.AssemblyInfo.cs
+C:\Users\ranajoy121\Source\Repos\TheCoreBlog\TCB\TCB.API\bin\Debug\netcoreapp2.0\TCB.API.deps.json
+C:\Users\ranajoy121\Source\Repos\TheCoreBlog\TCB\TCB.API\bin\Debug\netcoreapp2.0\TCB.API.runtimeconfig.json
+C:\Users\ranajoy121\Source\Repos\TheCoreBlog\TCB\TCB.API\bin\Debug\netcoreapp2.0\TCB.API.runtimeconfig.dev.json
+C:\Users\ranajoy121\Source\Repos\TheCoreBlog\TCB\TCB.API\bin\Debug\netcoreapp2.0\TCB.API.dll
+C:\Users\ranajoy121\Source\Repos\TheCoreBlog\TCB\TCB.API\bin\Debug\netcoreapp2.0\TCB.API.pdb
+C:\Users\ranajoy121\Source\Repos\TheCoreBlog\TCB\TCB.API\obj\Debug\netcoreapp2.0\TCB.API.dll
+C:\Users\ranajoy121\Source\Repos\TheCoreBlog\TCB\TCB.API\obj\Debug\netcoreapp2.0\TCB.API.pdb
+C:\Users\ranajoy121\Source\Repos\TheCoreBlog\TCB\TCB.API\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs

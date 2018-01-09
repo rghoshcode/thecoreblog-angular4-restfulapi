@@ -1,0 +1,31 @@
+<div style="text-align:center">
+  <h2 class="jumbotron bg-secondary text-white">
+    The Core Blog
+  </h2>
+</div>
+
+<button (click)="showNewBlog()" class="newblog" >Add a new Blog</button> 
+<div *ngIf=showNew style="width:auto; margin:20 auto;">
+  
+      <app-blog>
+
+      </app-blog>
+  
+</div>
+<button *ngIf=showNew (click)="hideNewBlog()">Discard Draft!</button> 
+
+
+<div *ngIf=blogService.showSelected style="width:auto; margin:20 auto;">
+  
+  <app-full-blog>  </app-full-blog>
+
+</div>
+<button *ngIf=blogService.showSelected (click)="displayAllBlogs()">Show all blogs!</button>
+
+<div *ngIf=!blogService.showSelected style="width:auto; margin:20 auto;">
+        
+  <app-blog-list>   </app-blog-list>
+    
+</div>
+
+  

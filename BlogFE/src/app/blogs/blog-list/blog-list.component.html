@@ -1,0 +1,27 @@
+<br>
+<br>
+Existing Blogs
+<hr>
+<div class="wrapper">
+<div *ngFor="let blog of blogService.blogList" >
+      <h3>{{blog.blogName}}</h3>
+      <p>{{blog.blogContent}}...</p>
+      <a  (click)="displayFullBlog(blog)">
+        <button type="button" class="showBlogButton">Show Blog</button>
+      </a>
+      <button type="button" 
+      id="testBtn" 
+      class="btn btn-success glyphicon glyphicon-thumbs-up" 
+      data-loading-text=" ... "
+      >
+       4</button>
+ 
+</div>
+</div>
+    
+    
+
+
+
+
+

@@ -1,0 +1,43 @@
+/* You can add global styles to this file, and also import other style files */
+form.blog-form{
+    background-color: #dbdbdb;
+    border-radius: 4px;
+    padding: 10px;
+    
+}
+div.validation-error{
+    color: red;
+    text-align: left;
+}
+
+button:hover,a.btn:hover{
+    cursor: pointer;
+}
+
+button.newblog {
+    background: #344ad9;
+    background-image: -webkit-linear-gradient(top, #344ad9, #342bb8);
+    background-image: -moz-linear-gradient(top, #344ad9, #342bb8);
+    background-image: -ms-linear-gradient(top, #344ad9, #342bb8);
+    background-image: -o-linear-gradient(top, #344ad9, #342bb8);
+    background-image: linear-gradient(to bottom, #344ad9, #342bb8);
+    -webkit-border-radius: 0;
+    -moz-border-radius: 0;
+    border-radius: 0px;
+    font-family: Georgia;
+    color: #ffffff;
+    font-size: 19px;
+    padding: 2px 33px 4px 33px;
+    text-decoration: none;
+  }
+  
+  button.newblog:hover {
+    background: #3cb0fd;
+    background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+    text-decoration: none;
+  }
+
