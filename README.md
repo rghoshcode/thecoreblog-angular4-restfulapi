@@ -1,5 +1,5 @@
 # Introduction 
-TheCoreBlog project aims to build a new Blogging Application using an ASP.NET Core Web API as Bankend, and a cool Angular4 FrontEnd. Azure Services such as AAD, CosmosDB, ApplicationInsights shall also be used.
+TheCoreBlog is a very simple project that uses an ASP.Net Core 2.0 Web API as backend to store mini Blog items on a local SQL Server DB. The main idea of this project is really to rather make an introductory demonstaration of how a component-based Angular4 project can be built to consume the backend API/ how we can utilize the power of CSS grids in our Angular 4 front-end design/ how we can debug our Angular4 application using Visual Studio Code
 
 # Getting Started
 TODO: Guide users through getting your code up and running on their own system. In this section you can talk about:
