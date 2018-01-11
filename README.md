@@ -6,6 +6,6 @@ TheCoreBlog is a very simple project that uses an ASP.Net Core 2.0 Web API as ba
 1.	Please install Visual Studio Code from https://code.visualstudio.com/
 2.	To install and use the Angular CLI as well as to run the Angular application server, we first need the Node.js JavaScript runtime and npm (the Node.js package manager) installed. npm is included with Node.js. Node.js can be downloaded from https://nodejs.org/en/
 
-3.	In order for backend API to run on the local server, you must have Visual Studio (2015 or higher, with support for .Net Core 2.0) installed on your machine. You may then open open the TCB API project with your Visual Studio and run on the local IISExpress. 
+3.	In order for the backend API to run on the local server, you must have Visual Studio (2015 or higher, with support for .Net Core 2.0) installed on your machine. You may then open open the TCB API project with your Visual Studio and run on the local IISExpress. 
 
 
