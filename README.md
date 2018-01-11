@@ -9,7 +9,7 @@ TheCoreBlog is a very simple project that uses an ASP.Net Core 2.0 Web API as ba
 3.	In order for the backend API to run on the local server, you must have Visual Studio (2015 or higher, with support for .Net Core 2.0) installed on your machine. You may then open the TCB API project with your Visual Studio and run on the local IISExpress. 
 
 
-#Screenshots of the Angular 4 app
+# Screenshots of the Angular 4 app
 
-https://pasteboard.co/H2qxJa8.png
-https://pasteboard.co/H2qyf9T.png
+1.  https://pasteboard.co/H2qxJa8.png
+2.  https://pasteboard.co/H2qyf9T.png
