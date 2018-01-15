@@ -1,5 +1,7 @@
 # Introduction 
-TheCoreBlog is a very simple project that uses an ASP.Net Core 2.0 Web API as backend to store mini Blog items on a local SQL Server DB. The main idea of this project is really to rather make an introductory demonstaration of how a component-based Angular4 project can be built to consume the backend API/ how we can utilize the power of CSS grids in our Angular 4 front-end design/ how we can debug our Angular4 application using Visual Studio Code. For questions or comments, please write to ranajoy121@gmail.com
+The main idea of this project is really to rather make an introductory demonstaration of how a component-based Angular4 project can be built to consume the backend API/ how we can utilize the power of CSS grids in our Angular 4 front-end design/ how we can debug our Angular4 application using Visual Studio Code.
+
+The project uses an ASP.Net Core 2.0 Web API as backend to store mini Blog items on a local SQL Server DB. For questions or comments, please write to ranajoy121@gmail.com
 
 # Getting Started
 
